@@ -1,0 +1,17 @@
+torch
+torchaudio
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+soundfile
+scipy
+tqdm
+python_speech_features
+torchvision
+opencv-python
+pillow
+albumentations
+pydicom
